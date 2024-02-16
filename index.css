@@ -35,7 +35,7 @@ body {
 	padding: 0;
 	color: white;
 	background-color: var(--clr-veryDarkBlue);
-	background-image: url(bg-desktop.png);
+	background-image: url(./bg-desktop.png);
 	background-repeat: no-repeat;
 	background-position: bottom;
 	background-attachment: fixed;
@@ -45,7 +45,7 @@ body {
 @media screen and (max-width: 375px) {
 	body {
 		background: var(--clr-veryDarkBlue);
-		background-image: url(bg-mobile.png);
+		background-image: url(./bg-mobile.png);
 		background-repeat: no-repeat;
 		background-position: bottom;
 		background-attachment: fixed;
